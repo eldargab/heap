@@ -1,0 +1,9 @@
+{
+  "name": "heap",
+  "description": "Binary heap data structure",
+  "keywords": ["heap", "queue"],
+  "license": "MIT",
+  "version": "0.0.1",
+  "scripts": ["heap.js"],
+  "main": "heap.js"
+}
